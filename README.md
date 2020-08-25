@@ -9,8 +9,5 @@ Visualization Link:
 
 https://public.tableau.com/views/Group3_PROJECT1_INFO215_Dashboard-1/VaccineJourneyDash2?:language=en&:display_count=y&:origin=viz_share_link
 
-Other team members:
 
-Varunika Raja
-
-Catherine Cho
+Team members: Rashmi GP, Varunika Raja, Catherine Cho
